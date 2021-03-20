@@ -6,7 +6,7 @@
     background: #34495e;
     height: 100vh;
     display: flex;
-    align-item: center;
+    align-items: center;
     justify-content: center;
     font-family: "montserrat",sans-serif;
     position:fixed;
